@@ -1,0 +1,5 @@
+{
+    "board": "arduino:nano",   
+    "sketch": "nrf24L01_Gesture_Transmitter_code.ino",
+    "port": " "                    
+  }

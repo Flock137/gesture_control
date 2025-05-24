@@ -8,7 +8,8 @@
                 "${workspaceFolder}/SPI-master",
                 "${workspaceFolder}/RF24-master",
                 "${workspaceFolder}/mpu6050-master",
-                "${workspaceFolder}/i2cdevlib-master"
+                "${workspaceFolder}/i2cdevlib-master",
+                "${workspaceFolder}"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",

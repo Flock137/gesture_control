@@ -1,5 +1,5 @@
 
-#include <SPI.h>        //SPI library for communicate with the nRF24L01+
+#include "SPI-master/SPI.h"        //SPI library for communicate with the nRF24L01+
 #include "RF24.h"       //The main library of the nRF24L01+
 #include "Wire.h"       //For communicate
 #include "I2Cdev.h"     //For communicate with MPU6050
